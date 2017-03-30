@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/andrewrothstein/ansible-ca-certs.svg?style=svg)](https://circleci.com/gh/andrewrothstein/ansible-ca-certs)
 andrewrothstein.ca-certs
 =========
 
