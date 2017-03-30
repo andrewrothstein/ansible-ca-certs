@@ -1,0 +1,7 @@
+---
+- name: install ca-certificates
+  become: yes
+  become_user: root
+  package:
+    name: ca-certificates
+    state: present
