@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/andrewrothstein/ansible-ca-certs.svg?style=svg)](https://circleci.com/gh/andrewrothstein/ansible-ca-certs)
 andrewrothstein.ca-certs
 =========
+[![Build Status](https://travis-ci.org/andrewrothstein/ansible-ca-certs.svg?branch=master)](https://travis-ci.org/andrewrothstein/ansible-ca-certs)
 
 Installs the operating system default trusted CA certificates.
 
