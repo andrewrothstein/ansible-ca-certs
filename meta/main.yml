@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Andrew Rothstein
-  description: '@TODO name this role'
+  description: installs major CA certificates
   company: BlackRock
   license:
     - MIT
@@ -23,4 +23,3 @@ galaxy_info:
     - development
 
 dependencies: []
-  
