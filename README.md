@@ -1,6 +1,6 @@
 andrewrothstein.ca-certs
 =========
-[![Build Status](https://travis-ci.org/andrewrothstein/ansible-ca-certs.svg?branch=master)](https://travis-ci.org/andrewrothstein/ansible-ca-certs)
+![Build Status](https://github.com/andrewrothstein/ansible-ca-certs/actions/workflows/build.yml/badge.svg)
 
 Installs the operating system default trusted CA certificates.
 
